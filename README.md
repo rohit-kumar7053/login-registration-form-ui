@@ -23,5 +23,5 @@ A simple and responsive login and registration form built using HTML and CSS. Th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+     https://github.com/rohit-kumar7053/login-registration-form-ui.git
 
